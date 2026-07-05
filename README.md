@@ -1,20 +1,31 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+Excellence Career Academy - Demo Website
 
-# Run and deploy your AI Studio app
+A professional coaching institute website developed using HTML, CSS, and JavaScript.
 
-This contains everything you need to run your app locally.
+Features
 
-View your app in AI Studio: https://ai.studio/apps/70b70721-78e7-4481-9288-7e4d8d074b85
+- Fully Responsive Design
+- Modern UI/UX
+- Mobile Friendly Layout
+- Smooth Animations
+- Course Showcase Section
+- Faculty Profiles
+- Student Testimonials
+- Admission Inquiry Form
+- Gallery Section
+- Contact Information
+- SEO-Friendly Structure
 
-## Run Locally
+Technologies Used
 
-**Prerequisites:**  Node.js
+- HTML5
+- CSS3
+- JavaScript
 
+Purpose
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+This project was created as a portfolio demonstration website for educational institutions and coaching centers. All business details, student information, testimonials, and contact information are fictional and used for demonstration purposes only.
+
+Live Demo
+
+Add your GitHub Pages link here after deployment.
