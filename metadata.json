@@ -1,0 +1,6 @@
+{
+  "name": "Excellence Career Academy",
+  "description": "A premium coaching institute website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
